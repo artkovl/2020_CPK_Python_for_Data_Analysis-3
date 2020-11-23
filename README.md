@@ -26,14 +26,17 @@
 4 тема (9 и 13 ноября 2020, 5-6)  
 [Цикл For. Множества и словари](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-3/tree/main/04_Set_Dict_For)
 
-5 тема (16 и 20 ноября 2020, 6-7)
+5 тема (16, 20, 23 ноября 2020, 6-8)
 [Функции и файлы](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-3/tree/main/05_Functions_Files)
 
+6 тема (23, 27, 30 ноября 2020 9-11)
+[Web-Scraping](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-3/tree/main/06_Scraping)
+
 ## Домашние задания
-Домашнее задание доступно на плафторме по [ссылке](https://online.hse.ru/mod/quiz/view.php?id=182945). 
+Домашнее задание 2 доступно на плафторме по [ссылке](https://online.hse.ru/mod/quiz/view.php?id=186606). 
 | ДЕДЛАЙН: | ПОЗДНИЙ ДЕДЛАЙН: |
 | :- | :- |
-| 19 ноября 23.59 | нет |
+| 2 декабря 23.55 | нет |
 
 ## Формы контроля
 На каждом занятии оценивается посещаемость. Для получения сертификата нужно посетить минимум 7 занятий из 14.
