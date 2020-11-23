@@ -14,17 +14,20 @@
 Каждому занятию соответствует свой порядковый номер - всего занятий 14. В папке каждого занятия вы найдете блокноты с пройденным на семинаре материалом.
 
 ## Материалы
-1 тема (26 октября 2020)  
+1 тема (26 октября 2020, 1)  
 [Гид по git. Стиль PEP8. Основы работы с Jupyter. Целые и вещественные числа, логические переменные](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-3/tree/master/01_Introduction)
 
-2 тема (30 октября, 2 ноября 2020)  
+2 тема (30 октября, 2 ноября 2020, 2-3)  
 [Форматирование строк. Ввод и вывод. Списки и кортежи](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-3/tree/main/02_Strings_Lists_Tuples)
 
-3 тема (6 ноября 2020)  
+3 тема (6 ноября 2020, 4)  
 [Срезы. Условный оператор и цикл while](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-3/tree/main/03_If_Else_While)
 
-4 тема (9 и 13 ноября 2020)  
+4 тема (9 и 13 ноября 2020, 5-6)  
 [Цикл For. Множества и словари](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-3/tree/main/04_Set_Dict_For)
+
+5 тема (16 и 20 ноября 2020, 6-7)
+[Функции и файлы](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-3/tree/main/05_Functions_Files)
 
 ## Домашние задания
 Домашнее задание доступно на плафторме по [ссылке](https://online.hse.ru/mod/quiz/view.php?id=182945). 
