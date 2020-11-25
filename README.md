@@ -26,10 +26,10 @@
 4 тема (9 и 13 ноября 2020, 5-6)  
 [Цикл For. Множества и словари](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-3/tree/main/04_Set_Dict_For)
 
-5 тема (16, 20, 23 ноября 2020, 6-8)
+5 тема (16, 20, 23 ноября 2020, 6-8)  
 [Функции и файлы](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-3/tree/main/05_Functions_Files)
 
-6 тема (23, 27, 30 ноября 2020 9-11)
+6 тема (23, 27, 30 ноября 2020 9-11)  
 [Web-Scraping](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-3/tree/main/06_Scraping)
 
 ## Домашние задания
