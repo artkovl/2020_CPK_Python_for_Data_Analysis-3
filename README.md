@@ -33,10 +33,13 @@
 [Web-Scraping](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-3/tree/main/06_Scraping)
 
 ## Домашние задания
-Домашнее задание 2 доступно на плафторме по [ссылке](https://online.hse.ru/mod/quiz/view.php?id=186606). 
+Домашнее задание 4
+Нужно прорешать [блокнот по pandas и визуализациям](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-3/blob/main/%40HW/4_Homework_Pandas_Viz.ipynb).
+Максимум можно набрать 13.5 балла (3.5 доп. балла)
+Выполненный блокнот назвать по шаблону HW4_<ваша фамилия латиницей> и загрузить [по ссылке в папку Dropbox](https://www.dropbox.com/request/tI9F59nvZdQFjxH66NBc).
 | ДЕДЛАЙН: | ПОЗДНИЙ ДЕДЛАЙН: |
 | :- | :- |
-| 2 декабря 23.55 | нет |
+| 16 декабря 23.55 | нет |
 
 Домашнее задание 3 состоит из двух частей.
 7 баллов можно набрать в [тесте в задачах по скрейпингу](https://online.hse.ru/mod/quiz/view.php?id=187904) и 3 балла, решив блокнот по [Numpy](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis-3/blob/main/%40HW/3_Homework_Numpy.ipynb).
